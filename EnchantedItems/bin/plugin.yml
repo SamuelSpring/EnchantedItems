@@ -1,0 +1,9 @@
+main: me.IAmSam.EnchantedItems.Main
+name: EnchantedItems
+version: 1.6.2
+author: IAmSam
+api-version: 1.13
+
+commands:
+  enchanteditem:
+    aliases: [ei, enchantedi]
